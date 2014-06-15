@@ -1,6 +1,6 @@
 # BibTeX References
 
-[![CC0 License](http://img.shields.io/badge/license-CC0-red.svg)](./LICENSE.txt)
+[![CC0 License](http://img.shields.io/badge/license-CC0-red.svg?style=flat)](./LICENSE.txt)
 
 These are my `.bib` files for organizing citations across various projects.
 
