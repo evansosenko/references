@@ -14,7 +14,7 @@ These are my `.bib` files for organizing citations across various projects.
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="https://github.com/razor-x/references">
+     href="https://github.com/evansosenko/references">
     <span property="dct:title">Evan Sosenko</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">BibTeX References</span>.
