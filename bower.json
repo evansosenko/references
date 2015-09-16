@@ -1,0 +1,14 @@
+{
+  "name": "references",
+  "description": "BibTeX References.",
+  "main": "README.md",
+  "authors": [
+    "Evan Sosenko <razorx@evansosenko.com>"
+  ],
+  "license": "Public Domain",
+  "homepage": "https://github.com/makenew/latex-project",
+  "private": true,
+  "ignore": [
+    "**/.*"
+  ]
+}
