@@ -1,2 +1,2 @@
 To the extent possible under law, Evan Sosenko has waived all copyright and related or neighboring rights to BibTeX References.
-To view a copy of this dedication, visit http://creativecommons.org/publicdomain/zero/1.0/.
+To view a copy of this dedication, visit https://creativecommons.org/publicdomain/zero/1.0/.
