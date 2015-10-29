@@ -1,5 +1,6 @@
 {
   "name": "references",
+  "version": "0.1.0",
   "description": "BibTeX References.",
   "main": "README.md",
   "authors": [
