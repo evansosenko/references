@@ -1,8 +1,0 @@
-# Some special characters throw errors
-# when used with pdfLaTeX and BibTeX.
-# This is a list of replacement rules that
-# can be used to replace the offending characters with
-# the corresponding LaTeX macros.
-# This should not be needed when using XeLaTeX.
-- [Ž, "\\v{Z}"]
-- [ć, "\\\\'{c}"]
